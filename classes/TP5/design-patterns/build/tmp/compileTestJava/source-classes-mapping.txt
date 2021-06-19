@@ -1,0 +1,22 @@
+StringDrinkTest.java
+ StringDrinkTest
+StringCaseChangerTest.java
+ StringCaseChangerTest
+StringRecipeTest.java
+ StringRecipeTest
+StringReplacerTest.java
+ StringReplacerTest
+StringInverterTest.java
+ StringInverterTest
+StringUndoTest.java
+ StringUndoTest
+StringTransformGroupTest.java
+ StringTransformGroupTest
+BarTest.java
+ BarTest
+HumanClientTest.java
+ HumanClientTest
+OrderingStrategyTest.java
+ OrderingStrategyTest
+AlienClientTest.java
+ AlienClientTest

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.g56.states.MenuStateTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-26T14:23:32" hostname="LAPTOP-R2TU3FPO" time="0.521">
+  <properties/>
+  <testcase name="testDimensions()" classname="com.g56.states.MenuStateTest" time="0.462"/>
+  <testcase name="testController()" classname="com.g56.states.MenuStateTest" time="0.028"/>
+  <testcase name="testViewer()" classname="com.g56.states.MenuStateTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
